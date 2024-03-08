@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k1BEc07TA0D2fQ9fNOT6tUtMFsFq4Li1hEM0H9iXvgo=",
+  "Source": "Service-Bus-Topics",
+  "BasePath": "_content/Service-Bus-Topics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
